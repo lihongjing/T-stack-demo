@@ -1,4 +1,4 @@
-package org.gradle.demo;
+package demo01;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
